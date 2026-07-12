@@ -52,19 +52,9 @@ const message = `
 
 Happy Birthday, My Love ❤️
 
-You are the best thing that has ever happened to me.
-
-Every moment with you is a beautiful memory that I will always cherish.
-
-Your smile brightens my darkest days, and your love makes my life complete.
-
-I hope today brings you endless happiness, laughter, love, and every dream you've ever wished for.
-
-Thank you for being such an amazing person.
-
-I promise to always stand by your side, support you, and love you with all my heart.
-
-Happy Birthday Once Again ❤️
+Ap meri life ki sab sy beautiful nemat ho. ❤️ Ap k sath guzara hua har lamha mery liye ek anmol yaad hai, jisy main hamesha sambhal k rakhungi. Meri dua hai k ap hamesha khush rahen. Allah Tala apko apny hifz-o-aman mein rakhy. Allah Pak apko hidayat dy. Allah Tala apko har buri nazar aur har ghalat logo sy door rakhy. Apko sari larkiyan zehr lagen aur apko bas main hi achi lagun. ❤️ Allah Pak ap k sare dreams poore kare. Meri dua hai k ap jaldi sy apna goal achieve kar k wapis aa jao aur phir mujhy hamesha k liye apna bana lo. Allah Tala apko naik banaye. Ap mujhy hamesha khush rakho, mujh sy bohat zyada pyar karne ki tofeeq ata farmaye, aur Allah Pak apko mery nakhry uthane ki bhi tofeeq ata farmaye. 🤲❤️
+Ameeeeeen Sum Ameeeeeen. ❤️
+Once Again Happy Birthday Meri Jaaaan...!! 🎉💗
 
 `;
 
