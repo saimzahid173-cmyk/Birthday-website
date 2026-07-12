@@ -446,3 +446,37 @@ transform:translateY(-130vh);
         opacity:0;
     }
 }
+/* Love Page Mobile Fix */
+@media (max-width: 768px) {
+
+    .container{
+        width:100%;
+        flex-direction:column;
+        align-items:center;
+        gap:20px;
+        margin:30px auto;
+    }
+
+    .letter-box{
+        width:100%;
+        max-width:380px;
+        height:auto;
+        min-height:420px;
+        padding:20px;
+    }
+
+    .love-note{
+        width:100%;
+        max-width:380px;
+        height:auto;
+    }
+
+    .letter-box h2{
+        font-size:34px;
+    }
+
+    #typing{
+        font-size:17px;
+        line-height:30px;
+    }
+}
